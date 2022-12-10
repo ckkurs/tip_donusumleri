@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\bin\Debug\net5.0\tip_dönüşümleri.exe
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\bin\Debug\net5.0\tip_dönüşümleri.deps.json
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\bin\Debug\net5.0\tip_dönüşümleri.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\bin\Debug\net5.0\tip_dönüşümleri.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\bin\Debug\net5.0\tip_dönüşümleri.dll
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\bin\Debug\net5.0\tip_dönüşümleri.pdb
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.dll
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\obj\Debug\net5.0\refint\tip_dönüşümleri.dll
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.pdb
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\obj\Debug\net5.0\tip_dönüşümleri.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\tip_dönüşümleri\obj\Debug\net5.0\ref\tip_dönüşümleri.dll
